@@ -6,3 +6,11 @@ C:\Users\User\Documents\Visual Studio 2010\Projects\VirtualLibrary\LibraryFacade
 C:\Users\User\Documents\Visual Studio 2010\Projects\VirtualLibrary\LibraryFacadeTest\LibraryFacadeTest\obj\Release\LibraryFacadeTest.csprojResolveAssemblyReference.cache
 C:\Users\User\Documents\Visual Studio 2010\Projects\VirtualLibrary\LibraryFacadeTest\LibraryFacadeTest\obj\Release\LibraryFacadeTest.dll
 C:\Users\User\Documents\Visual Studio 2010\Projects\VirtualLibrary\LibraryFacadeTest\LibraryFacadeTest\obj\Release\LibraryFacadeTest.pdb
+C:\Training\VirtualLibrary\LibraryFacadeTest\LibraryFacadeTest\bin\Release\LibraryFacadeTest.dll
+C:\Training\VirtualLibrary\LibraryFacadeTest\LibraryFacadeTest\bin\Release\LibraryFacadeTest.pdb
+C:\Training\VirtualLibrary\LibraryFacadeTest\LibraryFacadeTest\bin\Release\LibraryService.dll
+C:\Training\VirtualLibrary\LibraryFacadeTest\LibraryFacadeTest\bin\Release\nunit.framework.dll
+C:\Training\VirtualLibrary\LibraryFacadeTest\LibraryFacadeTest\bin\Release\LibraryService.pdb
+C:\Training\VirtualLibrary\LibraryFacadeTest\LibraryFacadeTest\obj\Release\LibraryFacadeTest.csprojResolveAssemblyReference.cache
+C:\Training\VirtualLibrary\LibraryFacadeTest\LibraryFacadeTest\obj\Release\LibraryFacadeTest.dll
+C:\Training\VirtualLibrary\LibraryFacadeTest\LibraryFacadeTest\obj\Release\LibraryFacadeTest.pdb

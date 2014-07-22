@@ -1,26 +1,26 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!--This file represents the results of running a test suite-->
-<test-results name="C:\Users\User\Documents\Visual Studio 2010\Projects\VirtualLibrary\LibraryFacadeTest\LibraryFacadeTest\bin\Release\LibraryFacadeTest.dll" total="10" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2014-07-22" time="15:15:31">
+<test-results name="C:\Training\VirtualLibrary\LibraryFacadeTest\LibraryFacadeTest\bin\Release\LibraryFacadeTest.dll" total="10" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2014-07-22" time="15:33:09">
   <environment nunit-version="2.6.3.13283" clr-version="2.0.50727.4247" os-version="Microsoft Windows NT 6.0.6002 Service Pack 2" platform="Win32NT" cwd="C:\Users\User\Documents\Visual Studio 2010\Projects\VirtualLibrary\LibraryFacadeTest\LibraryFacadeTest" machine-name="USER-PC" user="User" user-domain="USER-PC" />
   <culture-info current-culture="en-US" current-uiculture="en-US" />
-  <test-suite type="Assembly" name="C:\Users\User\Documents\Visual Studio 2010\Projects\VirtualLibrary\LibraryFacadeTest\LibraryFacadeTest\bin\Release\LibraryFacadeTest.dll" executed="True" result="Success" success="True" time="0.485" asserts="0">
+  <test-suite type="Assembly" name="C:\Training\VirtualLibrary\LibraryFacadeTest\LibraryFacadeTest\bin\Release\LibraryFacadeTest.dll" executed="True" result="Success" success="True" time="0.185" asserts="0">
     <results>
-      <test-suite type="Namespace" name="LibraryFacadeTest" executed="True" result="Success" success="True" time="0.437" asserts="0">
+      <test-suite type="Namespace" name="LibraryFacadeTest" executed="True" result="Success" success="True" time="0.119" asserts="0">
         <results>
-          <test-suite type="TestFixture" name="LibraryServiceTest" executed="True" result="Success" success="True" time="0.431" asserts="0">
+          <test-suite type="TestFixture" name="LibraryServiceTest" executed="True" result="Success" success="True" time="0.117" asserts="0">
             <results>
-              <test-suite type="ParameterizedTest" name="Add" executed="True" result="Success" success="True" time="0.207" asserts="0">
+              <test-suite type="ParameterizedTest" name="Add" executed="True" result="Success" success="True" time="0.017" asserts="0">
                 <results>
-                  <test-case name="LibraryFacadeTest.LibraryServiceTest.Add(&quot;1,1,1&quot;)" executed="True" result="Success" success="True" time="0.181" asserts="1" />
+                  <test-case name="LibraryFacadeTest.LibraryServiceTest.Add(&quot;1,1,1&quot;)" executed="True" result="Success" success="True" time="0.006" asserts="1" />
                   <test-case name="LibraryFacadeTest.LibraryServiceTest.Add(&quot;2,x x,2&quot;)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
                 </results>
               </test-suite>
-              <test-case name="LibraryFacadeTest.LibraryServiceTest.Add" executed="True" result="Success" success="True" time="0.017" asserts="11" />
-              <test-case name="LibraryFacadeTest.LibraryServiceTest.Add_Exception" executed="True" result="Success" success="True" time="0.015" asserts="0" />
+              <test-case name="LibraryFacadeTest.LibraryServiceTest.Add" executed="True" result="Success" success="True" time="0.008" asserts="11" />
+              <test-case name="LibraryFacadeTest.LibraryServiceTest.Add_Exception" executed="True" result="Success" success="True" time="0.016" asserts="0" />
               <test-case name="LibraryFacadeTest.LibraryServiceTest.Add_Exception_OneParam" executed="True" result="Success" success="True" time="0.002" asserts="0" />
-              <test-case name="LibraryFacadeTest.LibraryServiceTest.Add_Exception_TwoParam" executed="True" result="Success" success="True" time="0.004" asserts="0" />
-              <test-case name="LibraryFacadeTest.LibraryServiceTest.AllItems" executed="True" result="Success" success="True" time="0.069" asserts="14" />
-              <test-case name="LibraryFacadeTest.LibraryServiceTest.CheckIn" executed="True" result="Success" success="True" time="0.003" asserts="9" />
+              <test-case name="LibraryFacadeTest.LibraryServiceTest.Add_Exception_TwoParam" executed="True" result="Success" success="True" time="0.002" asserts="0" />
+              <test-case name="LibraryFacadeTest.LibraryServiceTest.AllItems" executed="True" result="Success" success="True" time="0.001" asserts="14" />
+              <test-case name="LibraryFacadeTest.LibraryServiceTest.CheckIn" executed="True" result="Success" success="True" time="0.004" asserts="9" />
               <test-case name="LibraryFacadeTest.LibraryServiceTest.Lent" executed="True" result="Success" success="True" time="0.003" asserts="8" />
               <test-case name="LibraryFacadeTest.LibraryServiceTest.LentOutItems" executed="True" result="Success" success="True" time="0.006" asserts="15" />
             </results>

@@ -5,3 +5,10 @@ C:\Users\User\Documents\Visual Studio 2010\Projects\VirtualLibrary\VirtualLibrar
 C:\Users\User\Documents\Visual Studio 2010\Projects\VirtualLibrary\VirtualLibrary\bin\Release\LibraryService.dll
 C:\Users\User\Documents\Visual Studio 2010\Projects\VirtualLibrary\VirtualLibrary\bin\Release\LibraryService.pdb
 C:\Users\User\Documents\Visual Studio 2010\Projects\VirtualLibrary\VirtualLibrary\obj\x86\Release\VirtualLibrary.csprojResolveAssemblyReference.cache
+C:\Training\VirtualLibrary\VirtualLibrary\obj\x86\Release\VirtualLibrary.exe
+C:\Training\VirtualLibrary\VirtualLibrary\obj\x86\Release\VirtualLibrary.pdb
+C:\Training\VirtualLibrary\VirtualLibrary\bin\Release\VirtualLibrary.exe
+C:\Training\VirtualLibrary\VirtualLibrary\bin\Release\VirtualLibrary.pdb
+C:\Training\VirtualLibrary\VirtualLibrary\bin\Release\LibraryService.dll
+C:\Training\VirtualLibrary\VirtualLibrary\bin\Release\LibraryService.pdb
+C:\Training\VirtualLibrary\VirtualLibrary\obj\x86\Release\VirtualLibrary.csprojResolveAssemblyReference.cache
