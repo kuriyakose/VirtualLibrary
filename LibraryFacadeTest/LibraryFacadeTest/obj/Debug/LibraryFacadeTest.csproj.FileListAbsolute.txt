@@ -1,0 +1,8 @@
+C:\Users\User\Documents\Visual Studio 2010\Projects\VirtualLibrary\LibraryFacadeTest\LibraryFacadeTest\bin\Debug\LibraryFacadeTest.dll
+C:\Users\User\Documents\Visual Studio 2010\Projects\VirtualLibrary\LibraryFacadeTest\LibraryFacadeTest\bin\Debug\LibraryFacadeTest.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\VirtualLibrary\LibraryFacadeTest\LibraryFacadeTest\bin\Debug\nunit.framework.dll
+C:\Users\User\Documents\Visual Studio 2010\Projects\VirtualLibrary\LibraryFacadeTest\LibraryFacadeTest\obj\Debug\LibraryFacadeTest.dll
+C:\Users\User\Documents\Visual Studio 2010\Projects\VirtualLibrary\LibraryFacadeTest\LibraryFacadeTest\obj\Debug\LibraryFacadeTest.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\VirtualLibrary\LibraryFacadeTest\LibraryFacadeTest\obj\Debug\LibraryFacadeTest.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2010\Projects\VirtualLibrary\LibraryFacadeTest\LibraryFacadeTest\bin\Debug\LibraryService.dll
+C:\Users\User\Documents\Visual Studio 2010\Projects\VirtualLibrary\LibraryFacadeTest\LibraryFacadeTest\bin\Debug\LibraryService.pdb

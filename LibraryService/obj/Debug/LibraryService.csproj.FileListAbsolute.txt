@@ -1,0 +1,4 @@
+C:\Users\User\Documents\Visual Studio 2010\Projects\VirtualLibrary\LibraryService\bin\Debug\LibraryService.dll
+C:\Users\User\Documents\Visual Studio 2010\Projects\VirtualLibrary\LibraryService\bin\Debug\LibraryService.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\VirtualLibrary\LibraryService\obj\Debug\LibraryService.dll
+C:\Users\User\Documents\Visual Studio 2010\Projects\VirtualLibrary\LibraryService\obj\Debug\LibraryService.pdb

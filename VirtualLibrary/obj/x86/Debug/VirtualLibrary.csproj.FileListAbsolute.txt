@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Visual Studio 2010\Projects\VirtualLibrary\VirtualLibrary\bin\Debug\VirtualLibrary.exe
+C:\Users\User\Documents\Visual Studio 2010\Projects\VirtualLibrary\VirtualLibrary\bin\Debug\VirtualLibrary.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\VirtualLibrary\VirtualLibrary\obj\x86\Debug\VirtualLibrary.exe
+C:\Users\User\Documents\Visual Studio 2010\Projects\VirtualLibrary\VirtualLibrary\obj\x86\Debug\VirtualLibrary.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\VirtualLibrary\VirtualLibrary\obj\x86\Debug\VirtualLibrary.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2010\Projects\VirtualLibrary\VirtualLibrary\bin\Debug\LibraryService.dll
+C:\Users\User\Documents\Visual Studio 2010\Projects\VirtualLibrary\VirtualLibrary\bin\Debug\LibraryService.pdb
