@@ -128,6 +128,7 @@ namespace LibraryFacade
             Console.WriteLine("C: Check in");
             Console.WriteLine("R: Report of all the items lent out");
             Console.WriteLine("I: List of all the items sorted by type and title");
+            Console.WriteLine("Q: Quit");
         }
     }
 }
